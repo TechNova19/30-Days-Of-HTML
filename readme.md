@@ -108,6 +108,7 @@ _client_, _server_, _web developer_, _web designer_, _UI_, _UX_, _web developmen
 
 # Day 1
 
+
 ## Introduction
 
 Congratulations on deciding to participate in 30 days of HTML challenge. In this challenge you will learn everything you need to know about HTML, and in general, the foundation of web development. In the end of the challenge, you will get a 30DaysOfHTML challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://t.me/ThirtyDaysOfHTML).
